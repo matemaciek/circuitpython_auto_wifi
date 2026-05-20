@@ -1,0 +1,14 @@
+[
+   {
+      "ssid":"some_network",
+      "pass":"some_pass"
+   },
+   {
+      "ssid":"another_network",
+      "pass":"another_pass"
+   },
+   {
+      "ssid":"more_network",
+      "pass":"more_pass"
+   }
+]
